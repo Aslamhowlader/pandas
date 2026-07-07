@@ -127,8 +127,6 @@ After completing this repository, you will be able to:
 🎓 CSE Undergraduate
 - 🏫 Bangladesh University of Business and Technology (BUBT)
 - 💡 Aspiring Data Scientist & ML
-GitHub: https://github.com/Aslamhowlader
-
 ---
 
 ## ⭐ Support
