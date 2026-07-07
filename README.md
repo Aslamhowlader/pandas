@@ -124,10 +124,9 @@ After completing this repository, you will be able to:
 
 **Md. Aslam Howlader**
 
-- 🎓 Software Engineering Student
-- 💻 Python & Data Science Learner
-- 🇧🇩 Bangladesh
-
+🎓 CSE Undergraduate
+- 🏫 Bangladesh University of Business and Technology (BUBT)
+- 💡 Aspiring Data Scientist & ML
 GitHub: https://github.com/Aslamhowlader
 
 ---
